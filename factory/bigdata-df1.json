@@ -1,0 +1,9 @@
+{
+	"name": "bigdata-df1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "07dcd28b-70b4-4a75-bf26-95f3b486281b",
+		"tenantId": "dfb4b7fa-d841-4e3a-9705-7adf1ca73c90"
+	}
+}
